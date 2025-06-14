@@ -1,6 +1,5 @@
 #  About Me:
-A project called News Hub – an RSS feed parser for BBC news, built using Java microservices architecture. Backend Java projects, especially involving Spring Boot, REST APIs, or microservices. Improving system scalability, handling real-time updates, and refining Docker deployment strategies. Spring Security, Kafka for event streaming, and best practices in microservices design. Java Core, Collections, Streams, REST APIs, or how to start building microservices in Java. I love turning every new concept I learn into a working feature in my current project.
-
+Backend Java developer focused on building scalable microservices with Spring Boot. Currently developing News Hub — a Java microservices application parsing BBC RSS feeds in real time. Skilled in REST APIs, Spring Security, Kafka event streaming, and Docker deployment. Passionate about applying core Java concepts to deliver clean, efficient, and maintainable backend solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-leniv-b86b4a365/) 
