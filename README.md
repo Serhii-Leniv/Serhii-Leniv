@@ -1,5 +1,5 @@
 #  About Me:
-Backend Java developer focused on building scalable microservices with Spring Boot. Currently developing News Hub — a Java microservices application parsing BBC RSS feeds in real time. Skilled in REST APIs, Spring Security, Kafka event streaming, and Docker deployment. Passionate about applying core Java concepts to deliver clean, efficient, and maintainable backend solutions.
+Backend Java developer specializing in building scalable microservices using Spring Boot. Experienced in designing REST APIs, implementing Spring Security, working with Kafka for event-driven communication, and deploying applications with Docker.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-leniv-b86b4a365/) 
