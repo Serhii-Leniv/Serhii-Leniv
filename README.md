@@ -1,5 +1,3 @@
-# Hi, I'm Serhii 👋
+# Hi 👋
 
-Software engineer — I write Java and TypeScript.
-
-Currently at Vistiz AI.
+I'm Serhii, a software engineer passionate about AI.
