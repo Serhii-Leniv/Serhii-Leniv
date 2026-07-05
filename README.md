@@ -1,5 +1,5 @@
 # Hi, I'm Serhii 👋
 
-Software engineer — comfortable writing in **Java** and **TypeScript**.
+Software engineer — I write Java and TypeScript.
 
-Currently building at **Vistiz AI**.
+Currently at Vistiz AI.
