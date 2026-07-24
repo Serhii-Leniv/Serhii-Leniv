@@ -1,3 +1,3 @@
-# Hi 👋
+# Hi 
 
-I'm Serhii, a software engineer passionate about AI.
+I'm Serhii, a software engineer passionate about AI and cli tools.
